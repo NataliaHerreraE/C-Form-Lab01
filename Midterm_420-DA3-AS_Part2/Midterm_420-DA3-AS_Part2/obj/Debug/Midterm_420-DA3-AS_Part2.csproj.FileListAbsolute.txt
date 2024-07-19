@@ -1,0 +1,10 @@
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420-DA3-AS_Part2.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420_DA3_AS_Part2.GUI.Student.resources
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420_DA3_AS_Part2.Properties.Resources.resources
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420-DA3-AS_Part2.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420-DA3-AS_Part2.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\bin\Debug\Midterm_420-DA3-AS_Part2.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\bin\Debug\Midterm_420-DA3-AS_Part2.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\bin\Debug\Midterm_420-DA3-AS_Part2.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420-DA3-AS_Part2.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\Midterm_420-DA3-AS_Part2\obj\Debug\Midterm_420-DA3-AS_Part2.pdb
